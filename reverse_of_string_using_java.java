@@ -3,8 +3,8 @@ import java.util.Scanner;
   
 class GFG {
     public static void main (String[] args) {
-        Scanner sc = new Scanner(System.in)
-        String str = sc.nextLine()
+        Scanner sc = new Scanner(System.in);
+        String str = sc.nextLine();
         char ch;
       System.out.println(str); //Example word
         
